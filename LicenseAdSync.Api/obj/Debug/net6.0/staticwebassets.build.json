@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "Iig7ZZdA5u71/7aAooc02qHBDHywnUX3+lVwJS9ig9A=",
-  "Source": "LicenseAdSync.Api",
-  "BasePath": "_content/LicenseAdSync.Api",
+  "Hash": "fGBFbT468BShi9mPBkAdqQdO4IU2UJN3XG32i+RUsmo=",
+  "Source": "LicenseAdaptor.Api",
+  "BasePath": "_content/LicenseAdaptor.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

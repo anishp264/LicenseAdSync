@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cEldgBGhivP++PAHADKiGIcND2nh7IcCQjOLrZrt4NRezgNaVad06WFYpDd9Pe3G7ahjF8kGGdkIg64O3JCPOw==",
+  "dgSpecHash": "D8dpJHebQh+RudkTWXy2QyG7gSoI+9XLxCmak/fiffPaTfYhg/+5uaYuOC+m6N0gkLNhz968qdL40gjbRonk/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\punne\\Documents\\GitProjects\\LicenseAdSync\\LicenseAdSync.Api\\LicenseAdSync.Api.csproj",
+  "projectFilePath": "C:\\Users\\punne\\Documents\\GitProjects\\LicenseAdSync\\LicenseAdSync.Api\\LicenseAdaptor.Api.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

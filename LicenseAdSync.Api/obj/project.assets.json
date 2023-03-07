@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\punne\\Documents\\GitProjects\\LicenseAdSync\\LicenseAdSync.Api\\LicenseAdSync.Api.csproj",
-      "projectName": "LicenseAdSync.Api",
-      "projectPath": "C:\\Users\\punne\\Documents\\GitProjects\\LicenseAdSync\\LicenseAdSync.Api\\LicenseAdSync.Api.csproj",
+      "projectUniqueName": "C:\\Users\\punne\\Documents\\GitProjects\\LicenseAdSync\\LicenseAdSync.Api\\LicenseAdaptor.Api.csproj",
+      "projectName": "LicenseAdaptor.Api",
+      "projectPath": "C:\\Users\\punne\\Documents\\GitProjects\\LicenseAdSync\\LicenseAdSync.Api\\LicenseAdaptor.Api.csproj",
       "packagesPath": "C:\\Users\\punne\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\punne\\Documents\\GitProjects\\LicenseAdSync\\LicenseAdSync.Api\\obj\\",
       "projectStyle": "PackageReference",
