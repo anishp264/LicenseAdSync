@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\LicenseAdSync.Api.props" />
+</Project>

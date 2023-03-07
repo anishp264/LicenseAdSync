@@ -1,0 +1,12 @@
+C:\Users\punne\Documents\GitProjects\LicenseAdSync\LicenseAdSync.Domain\bin\Debug\net6.0-windows\LicenseAdSync.Domain.deps.json
+C:\Users\punne\Documents\GitProjects\LicenseAdSync\LicenseAdSync.Domain\bin\Debug\net6.0-windows\LicenseAdSync.Domain.dll
+C:\Users\punne\Documents\GitProjects\LicenseAdSync\LicenseAdSync.Domain\bin\Debug\net6.0-windows\LicenseAdSync.Domain.pdb
+C:\Users\punne\Documents\GitProjects\LicenseAdSync\LicenseAdSync.Domain\obj\Debug\net6.0-windows\LicenseAdSync.Domain.csproj.AssemblyReference.cache
+C:\Users\punne\Documents\GitProjects\LicenseAdSync\LicenseAdSync.Domain\obj\Debug\net6.0-windows\LicenseAdSync.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\punne\Documents\GitProjects\LicenseAdSync\LicenseAdSync.Domain\obj\Debug\net6.0-windows\LicenseAdSync.Domain.AssemblyInfoInputs.cache
+C:\Users\punne\Documents\GitProjects\LicenseAdSync\LicenseAdSync.Domain\obj\Debug\net6.0-windows\LicenseAdSync.Domain.AssemblyInfo.cs
+C:\Users\punne\Documents\GitProjects\LicenseAdSync\LicenseAdSync.Domain\obj\Debug\net6.0-windows\LicenseAdSync.Domain.csproj.CoreCompileInputs.cache
+C:\Users\punne\Documents\GitProjects\LicenseAdSync\LicenseAdSync.Domain\obj\Debug\net6.0-windows\LicenseAdSync.Domain.dll
+C:\Users\punne\Documents\GitProjects\LicenseAdSync\LicenseAdSync.Domain\obj\Debug\net6.0-windows\refint\LicenseAdSync.Domain.dll
+C:\Users\punne\Documents\GitProjects\LicenseAdSync\LicenseAdSync.Domain\obj\Debug\net6.0-windows\LicenseAdSync.Domain.pdb
+C:\Users\punne\Documents\GitProjects\LicenseAdSync\LicenseAdSync.Domain\obj\Debug\net6.0-windows\ref\LicenseAdSync.Domain.dll
